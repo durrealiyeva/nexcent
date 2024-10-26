@@ -1,0 +1,39 @@
+@media only screen and (max-width: 1000px) {
+   .container {
+      max-width: 900px;
+      margin:30px auto;
+  }
+   nav,.btn{
+    display: none;
+   }
+   .menubar{
+      display: flex;
+      font-size: 30px;
+   }
+   .register{
+      display: flex;
+      flex-direction: column-reverse;
+      text-align: center;
+   }
+   .register_title{
+      font-size: 50px;
+   }
+   .client_link{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 30px;
+   }
+   .system_card{
+      margin: auto;
+   }
+   .unseen{
+      display: flex;
+      flex-direction: column;
+   }
+   .unseen_right{
+      text-align: center;
+   }
+   .local,.design,.tim,.care,.demo,footer{
+    display: none;
+   }
+  }

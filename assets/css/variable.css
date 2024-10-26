@@ -1,0 +1,16 @@
+:root{
+    --whiteColor: rgba(255, 255, 255, 1);
+    --whitelayerColor:rgba(217, 219, 225, 1);
+    --silverColor: rgba(245, 247, 250, 1);
+    --greenColor: rgba(76, 175, 79, 1);
+    --darkgreenColor:rgb(44, 131, 47);
+    --blackColor: rgba(24, 25, 31, 1);
+    --lightblackColor: rgba(38, 50, 56, 1);
+    --grayColor: rgba(77, 77, 77, 1);
+    --greyColor: rgba(113, 113, 113, 1);
+    --lightgreyColor: rgba(137, 147, 158, 1);
+    --graylayerColor: rgba(81, 91, 96,1);
+    --fontInter:"Inter", sans-serif;
+    --fontRoboto:"Roboto", sans-serif;
+
+}
